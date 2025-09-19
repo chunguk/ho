@@ -16,7 +16,7 @@ public class VisitDao {
 	
 	SqlSessionFactory factory ;
 	
-//싱글톤(Singleton) 은 프로그램 실행 동안 객체를 하나만 만들고 공유하는 패턴
+//싱글톤(Singleton) 은 프로그램 실행 동안 객체를 하나만 만들고 공유하는 패턴kkkk
 //VisitDao = 클래스이름 환경변수lllll
 static VisitDao single = null;
 
