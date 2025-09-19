@@ -9,8 +9,7 @@ public class VisitVo {
 	String content;
 	String pwd;
 	String ip;
-	String regdate;
-	String deahan;
+	String regda;
 	
 	
 	//생성자만들어서 값을 넣으면 초기화생성자(아무것도없는)걸만들어야함
