@@ -30,7 +30,7 @@ static VisitDao single = null;
 	}
 	
 	private VisitDao() {
-			factory = MyBatisConnector.getInstance().getSqlSessionFactory();		
+			factory = MyBatisConnector.getInstance().getSqlSessionFactory();		dddd
 	}
 
 	
